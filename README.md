@@ -21,8 +21,8 @@ I'm a software developer based in Portsmouth, NH, USA.
 <summary>Click for GitHub Stats</summary>
 <p align="center">
     <br>
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=henrythach&theme=dracula&show_icons=true&hide=contribs">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=henrythach&show_icons=true&hide=contribs">
     <br><br>
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrythach&theme=dracula">
+    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrythach">
 </p>
 </details>
