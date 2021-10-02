@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/YlTdOo06ACyici7YJ5/giphy.gif" align="right" />
+<img src="https://media.giphy.com/media/YlTdOo06ACyici7YJ5/giphy.gif" align="right" width="200" />
 
 ## Hi, I'm Henry Thach 👋
 
