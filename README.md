@@ -14,3 +14,7 @@ I'm a software developer based in Portsmouth, NH, USA.
 - 💬 Ask me anything about web development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/henry-thach/)
 - ⚡️ Fun fact: I love dry humor
+
+---
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=henrythach&theme=dracula&show_icons=true&hide=contribs)
