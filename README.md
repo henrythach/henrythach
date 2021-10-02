@@ -13,7 +13,6 @@ I'm a software developer based in Portsmouth, NH, USA.
 - 🌱 I'm currently learning Japanese (よろしくお願いします)
 - 💬 Ask me anything about web development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/henry-thach/)
-- ⚡️ Fun fact: I love dry humor
 
 ---
 
