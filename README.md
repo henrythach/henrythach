@@ -7,7 +7,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
-I'm a software developer based in Portsmouth, NH, USA.
+I'm an engineering manager based in Portsmouth, NH, USA.
 
 - 🔭 I'm working on developing my data science skills
 - 🌱 Estoy aprendiendo español
